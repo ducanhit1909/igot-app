@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/apple-icon.png/route": "app/apple-icon.png/route.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/(onboarding)/onboard/page": "app/(onboarding)/onboard/page.js",
+  "/(onboarding)/onboard/(questions)/gender/page": "app/(onboarding)/onboard/(questions)/gender/page.js",
+  "/(onboarding)/onboard/(questions)/workspace/page": "app/(onboarding)/onboard/(questions)/workspace/page.js"
+}
